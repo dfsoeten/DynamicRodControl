@@ -9,6 +9,7 @@ The following features are implemented
 - Reactors will shut down if no power is needed, the reactors wont use fuel in this case!
 
 Video about it here: 
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mY1quFGO0Z0
 " target="_blank"><img src="http://img.youtube.com/vi/mY1quFGO0Z0/0.jpg" 
 alt="Dynamic Power Control" width="240" height="180" border="10" /></a>
